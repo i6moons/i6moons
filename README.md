@@ -1,7 +1,7 @@
 <!-- README.md de votre profil GitHub -->
 
 <div align="center">
-  <img src="https://VOTRE_DOMAINE.com/images/logo.png" alt="CyberPath Logo" width="100"/>
+  <img src="https://korix.versel.app/images/logo.png" alt="korix Logo" width="100"/>
   <h1>Salut, je suis i6moons 👋</h1>
   <p><strong>Développeur Full-Stack & Créateur de <a href="https://korix.versel.app">CyberPath.dev</a></strong></p>
   <p>Passionné par la construction d'applications web sécurisées, performantes et par le partage de connaissances.</p>
@@ -29,16 +29,6 @@ Je suis un développeur qui croit que la technologie doit être un outil d'éman
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-</div>
-
----
-
-### 📊 Mes Statistiques GitHub
-
-<!-- Les stats se mettront à jour automatiquement ! -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i6moons&show_icons=true&theme=dracula&count_private=true" alt="Statistiques GitHub de i6moons" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i6moons&layout=compact&theme=dracula" alt="Langages les plus utilisés par i6moons" />
 </div>
 
 ---
