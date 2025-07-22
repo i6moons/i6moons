@@ -1,9 +1,8 @@
 <!-- README.md de votre profil GitHub -->
 
 <div align="center">
-  <img src="https://korix.versel.app/public/images/logo.png" alt="korix Logo" width="100"/>
   <h1>Salut, je suis i6moons 👋</h1>
-  <p><strong>Développeur Full-Stack & Créateur de <a href="https://korix.versel.app">korix</a></strong></p>
+  <p><strong>Développeur Full-Stack & Créateur de <a href="https://korix.vercel.app/">korix</a></strong></p>
   <p>Passionné par la construction d'applications web sécurisées, performantes et par le partage de connaissances.</p>
 </div>
 
