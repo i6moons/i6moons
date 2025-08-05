@@ -1,33 +1,71 @@
 <!-- README.md de votre profil GitHub -->
 
 <div align="center">
-  <h1>Salut, je suis i6moons 👋</h1>
-  <p><strong>Développeur Full-Stack & Créateur de <a href="https://korix.vercel.app/">korix</a></strong></p>
-  <p>Passionné par la construction d'applications web sécurisées, performantes et par le partage de connaissances.</p>
+  <h1>👋 Salut, je suis <strong>i6moons</strong></h1>
+  <p><strong>CTF Player · Full-Stack Dev · Designer Graphique</strong></p>
+  <p>Spécialisé en sécurité offensive, design d'interfaces et développement web sécurisé.</p>
 </div>
 
+### Qui je suis
+
+Développeur full-stack **orienté sécurité**, **CTF player** passionné, et **designer graphique** par conviction.  
+J'évolue à la croisée de la **technique avancée**, de la **pensée offensive**, et de **l'esthétique fonctionnelle**.
+
+- 🛡️ Contributeur dans la communauté CTF & sécurité offensive (XSS, SSRF, reverse engineering, payload chaining)
+- 🎨 Designer UI/UX (branding, systèmes de design, motion, wireframes & prototypage interactif)
+- 🌐 Développeur web (Next.js, TypeScript, REST/GraphQL, DevOps, accessibilité, performance)
+- 🔭 Actuellement, je travaille sur **CyberPath**, un guide pour apprendre la cybersécurité offensive de manière progressive
+
 ---
 
-### 🛡️ À Propos de Moi
+### ⚔️ Compétences Sécurité & CTF
 
-Je suis un développeur qui croit que la technologie doit être un outil d'émancipation. Mon parcours m'a conduit du développement d'applications à une fascination pour la sécurité qui les sous-tend. J'aime comprendre comment les choses fonctionnent, comment elles peuvent être cassées, et surtout, comment les rendre plus robustes.
-
-- 🔭 Je travaille actuellement sur **CyberPath**, un guide open-source pour rendre la cybersécurité accessible à tous.
-- 🌱 J'apprends en continu sur les nouvelles techniques de défense et les architectures cloud sécurisées.
-- 💬 Demandez-moi des choses sur **Next.js, TypeScript, la sécurité web (OWASP), et les environnements Linux**.
-- 😄 Fait amusant : Mon premier "hack" a été de modifier un fichier de sauvegarde de jeu pour avoir des ressources illimitées !
+| Domaine | Détail |
+|--------|--------|
+| 🔍 Recon & Enumeration | OSINT, Subdomain Takeover, DNS enum |
+| 🧩 Web Exploitation | XSS, IDOR, CSRF, SQLi, File Upload, Logic bugs |
+| 🔐 Auth Bypass | JWT tampering, cookie poisoning, OAuth manipulation |
+| 🔁 Reverse Engineering | JS obfuscation, decoding flows, deobfuscation |
+| 🧬 Payload Crafting | Custom exploit chaining, evasion techniques |
+| 🧪 Labs & Plateformes | HackTheBox, Root-Me, TryHackMe, PortSwigger Academy |
 
 ---
 
-### 🚀 Mon Stack Technologique de Prédilection
+### Compétences Design & Front
+
+| Discipline | Stack & Outils |
+|-----------|----------------|
+| UI/UX Design | Figma, Framer, Protopie, Tailwind, BEM |
+| Brand Identity | Logo design, palettes, guidelines, typographie |
+| Creative Dev | CSS3 Animations, GSAP, Three.js |
+| Accessibilité | Audit, WCAG, Responsive / Dark Mode |
+| Prototypage & Motion | Lottie, SVG, AE2Figma, Canva, Illustrator |
+
+---
+
+### 🛠 Stack Technologique
 
 <div align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
+
+### Ce que je cherche
+
+- Collaborations open-source dans le domaine **cybersecurity/devsecops/front-end performant**
+- Partage de connaissances & mentorat (dev & sécu web)
+- Missions freelance sur **des projets tech & design cohérents**
+
+ Contact : www.linkedin.com/in/i6moons  
+🔗 Blog (en dev) : [korix.vercel.app](https://korix.vercel.app/)
+
+---
+
+> _"Il faut déconstruire pour mieux comprendre. Et comprendre pour mieux sécuriser."_  
+> _– i6moons_
