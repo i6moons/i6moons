@@ -30,15 +30,7 @@ Une application web full-stack moderne et responsive construite avec **Next.js 1
 | **UI/UX Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white) |
 | **DevOps & Outils** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
 
----
-
-### 📊 **Statistiques GitHub**
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=i6moons&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=false" alt="Stats GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i6moons&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
-</div>
-
+> **Voir tous mes projets :** [📁 GitHub Repositories](https://github.com/tonusername?tab=repositories)
 ---
 
 ### 📫 **Contact & Collaborations**
