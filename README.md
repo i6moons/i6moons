@@ -1,9 +1,6 @@
-<!-- README.md de votre profil GitHub -->
-
-<p align="center">
-  <b>Cotonou, Bénin</b> • <b>Freelance</b> • <b>Disponible pour collaborations</b><br>
-  Passionné par la création d'applications web modernes, d'interfaces intuitives et d'automatisations intelligentes.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=👋+Salut+de+Cotonou%2C+Bénin;Full-Stack+Dev+%7C+React+%2F+Python;Freelance+%7C+Open+to+Work+%F0%9F%A4%96;Cyber+%26+Web+Apps+%7C+Linux+Expert" alt="Typing SVG" />
+</div>
 
 ---
 
