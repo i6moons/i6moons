@@ -35,7 +35,7 @@ Une application web full-stack moderne et responsive construite avec **Next.js 1
 
 Je suis toujours ouvert à discuter de nouveaux projets, d'opportunités de freelance ou de collaborations techniques.
 
-- **📧 Email :** delprudence@gmail.com
+- **📧 Email :** completcodedev12s5d@gmail.com
 - **🌐 Projet Korix :** [korix.vercel.app](https://korix.vercel.app)
 
 <p align="center">
