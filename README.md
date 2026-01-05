@@ -4,17 +4,20 @@
 
 ---
 
-### 🚀 **Projet Phare : Korix**
-[![Korix Banner](https://img.shields.io/badge/KORIX-Full--Stack_App-8B5CF6?style=for-the-badge&logo=vercel)](https://korix.vercel.app)
+## 🚀 **Projet Phare : Korix** ⭐
+[![Vercel](https://img.shields.io/badge/Vercel-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://korix.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 
-Une application web full-stack moderne et responsive construite avec **Next.js 14 & Tailwind CSS**.
-- ✅ **Routing dynamique** (App Router)
-- ✅ **UI/UX soignée** et design system cohérent
-- ✅ **Optimisée pour le SEO et les performances**
-- ✅ **Déployée et hébergée sur Vercel**
+**App Full-Stack moderne** construite avec **Next.js 14 App Router + Tailwind CSS** 🚀
 
-🔗 **Live Demo :** [korix.vercel.app](https://korix.vercel.app)
----
+| ✨ **Fonctionnalités** | 🔧 **Tech Stack** |
+|-----------------------|-------------------|
+| ✅ Routing dynamique | Next.js 14 • Tailwind |
+| ✅ SEO & Performance optimisés | TypeScript • React |
+| ✅ UI/UX Design System | Prisma • Vercel |
+| ✅ PWA Ready | Mobile-First |
+
+🔗 **[Live Demo](https://korix.vercel.app)** | **[Code Source](https://github.com/i6moons/korix)**
 
 ### 🛠️ **Stack Technique & Outils**
 
