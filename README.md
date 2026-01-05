@@ -16,7 +16,7 @@ Une application web full-stack moderne et responsive construite avec **Next.js 1
 - ✅ **Optimisée pour le SEO et les performances**
 - ✅ **Déployée et hébergée sur Vercel**
 
-🔗 **Live Demo :** [korix.vercel.app](https://korix.vercel.app) | *Statut :* Repository Privé
+🔗 **Live Demo :** [korix.vercel.app](https://korix.vercel.app)
 ---
 
 ### 🛠️ **Stack Technique & Outils**
