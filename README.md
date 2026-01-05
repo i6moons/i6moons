@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/tonusername?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/i6moons)
 
-<h1 align="center">👨‍💻 Del Prudence</h1>
 <p align="center">
   <b>Cotonou, Bénin</b> • <b>Freelance</b> • <b>Disponible pour collaborations</b><br>
   Passionné par la création d'applications web modernes, d'interfaces intuitives et d'automatisations intelligentes.
@@ -36,8 +35,8 @@ Une application web full-stack moderne et responsive construite avec **Next.js 1
 ### 📊 **Statistiques GitHub**
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tonusername&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=false" alt="Stats GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonusername&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=i6moons&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=false" alt="Stats GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i6moons&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
 </div>
 
 ---
@@ -47,9 +46,7 @@ Une application web full-stack moderne et responsive construite avec **Next.js 1
 Je suis toujours ouvert à discuter de nouveaux projets, d'opportunités de freelance ou de collaborations techniques.
 
 - **📧 Email :** delprudence@gmail.com
-- **💼 Portfolio :** [tonsite.com](https://tonsite.com)
 - **🌐 Projet Korix :** [korix.vercel.app](https://korix.vercel.app)
-- **📱 WhatsApp :** [Cliquez pour discuter](https://wa.me/22941457855)
 
 <p align="center">
   <i>N'hésitez pas à forker, star mes repos si vous trouvez mon travail utile !</i><br>
