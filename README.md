@@ -1,10 +1,11 @@
 <!-- README.md de votre profil GitHub -->
 
-<div align="center">
-  <h1>👋 Salut, je suis <strong>i6moons</strong></h1>
-  <p><strong>CTF Player · Full-Stack Dev · Designer Graphique</strong></p>
-  <p>Spécialisé en sécurité offensive, design d'interfaces et développement web sécurisé.</p>
-</div>
+<h1 align="center">👨‍💻 Del Prudence</h1>
+<h3 align="center">c</h3>
+<p align="center">
+  <b>Cotonou, Bénin</b> • <b>Freelance</b> • <b>Disponible pour collaborations</b><br>
+  Passionné par la création d'applications web modernes, d'interfaces intuitives et d'automatisations intelligentes.
+</p>
 
 ### Qui je suis
 
