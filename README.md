@@ -4,6 +4,12 @@
 
 ---
 
+## 📊 **Stats GitHub**
+<div align="center">
+  ![Stats](https://github-readme-stats.vercel.app/api?username=i6moons&show_icons=true&theme=radical&hide_border=true&line_height=27)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i6moons&layout=compact&theme=radical&hide_border=true)
+</div>
+
 ### 🚀 **Projet Phare : Korix**
 [![Korix Banner](https://img.shields.io/badge/KORIX-Full--Stack_App-8B5CF6?style=for-the-badge&logo=vercel)](https://korix.vercel.app)
 
