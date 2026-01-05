@@ -1,7 +1,6 @@
 <!-- README.md de votre profil GitHub -->
 
 <h1 align="center">👨‍💻 Del Prudence</h1>
-<h3 align="center">c</h3>
 <p align="center">
   <b>Cotonou, Bénin</b> • <b>Freelance</b> • <b>Disponible pour collaborations</b><br>
   Passionné par la création d'applications web modernes, d'interfaces intuitives et d'automatisations intelligentes.
