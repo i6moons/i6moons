@@ -46,11 +46,10 @@ Une application web full-stack moderne et responsive construite avec **Next.js 1
 
 Je suis toujours ouvert à discuter de nouveaux projets, d'opportunités de freelance ou de collaborations techniques.
 
-- **📧 Email :** delprudence@email.com
+- **📧 Email :** delprudence@gmail.com
 - **💼 Portfolio :** [tonsite.com](https://tonsite.com)
 - **🌐 Projet Korix :** [korix.vercel.app](https://korix.vercel.app)
-- **📱 WhatsApp :** [Cliquez pour discuter](https://wa.me/229XXXXXXXXX) <!-- Remplace par ton numéro -->
-- **💬 Telegram :** [@tonusername](https://t.me/tonusername) <!-- Optionnel -->
+- **📱 WhatsApp :** [Cliquez pour discuter](https://wa.me/22941457855)
 
 <p align="center">
   <i>N'hésitez pas à forker, star mes repos si vous trouvez mon travail utile !</i><br>
