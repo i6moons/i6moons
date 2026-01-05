@@ -1,7 +1,5 @@
 <!-- README.md de votre profil GitHub -->
 
-[![GitHub followers](https://img.shields.io/github/followers/tonusername?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/i6moons)
-
 <p align="center">
   <b>Cotonou, Bénin</b> • <b>Freelance</b> • <b>Disponible pour collaborations</b><br>
   Passionné par la création d'applications web modernes, d'interfaces intuitives et d'automatisations intelligentes.
