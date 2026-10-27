@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1e3a8a,100:7aa2f7&height=180&section=header&text=Del%20Prudence&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20S%C3%A9curit%C3%A9%20web&descSize=17&descAlignY=56" width="100%" alt="Del Prudence, développeur Full-Stack, Next.js et TypeScript, sécurité web" />
 
-**Je construis des applications Next.js sécurisées, et des outils open source qui aident les développeurs à éviter les failles les plus courantes.**
+**Cybersecurity & Fullstack Engineer | UI/UX Designer | Fondateur @KipKard | Creator @Zoviaq | DevSecOps & Secure Architectures**
 
 ![Cotonou, Bénin](https://img.shields.io/badge/Cotonou-B%C3%A9nin-9ece6a?style=flat-square&logo=googlemaps&logoColor=white) ![Profile views](https://komarev.com/ghpvc/?username=i6moons&color=7aa2f7&style=flat-square&label=vues)
 
