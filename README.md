@@ -13,8 +13,6 @@
 
 ## 👨🏾‍💻 À propos
 
-- 🛡️ Je m'entraîne à la sécurité web offensive : PortSwigger Web Security Academy, Hack The Box, Burp Suite.
-- 🌱 J'apprends en ce moment : Python, Java et Docker.
 - 💬 Parlez-moi de : Next.js, TypeScript, sécurité web.
 
 ---
@@ -29,29 +27,9 @@
 
 **Outils et systèmes**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,kali,bash,vscode,figma&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Linux, Kali Linux, Bash, VS Code, Figma" />
-
-**En apprentissage**
-
-<img src="https://skillicons.dev/icons?i=py,java&theme=dark" alt="Python, Java" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vscode,figma&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Linux, Bash, VS Code, Figma" />
 
 </div>
-
----
-
-## 🛡️ Sécurité
-
-Je construis mieux parce que j'apprends à casser. Mon terrain d'entraînement :
-
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="PortSwigger Web Security Academy" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Top 10" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-</p>
-
-Contrôle d'accès, authentification, XSS : chaque faille étudiée devient une vérification de plus dans mon propre code.
 
 ---
 
