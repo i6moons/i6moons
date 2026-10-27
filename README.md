@@ -1,37 +1,55 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Salut%2C+moi+c'est+Del+Prudence+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+%C2%B7+Next.js+%26+TypeScript;Passionn%C3%A9+de+s%C3%A9curit%C3%A9+web+%F0%9F%9B%A1%EF%B8%8F" alt="Salut, moi c'est Del Prudence. Développeur Full-Stack, Next.js et TypeScript. Passionné de sécurité web." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1e3a8a,100:7aa2f7&height=180&section=header&text=Del%20Prudence&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20S%C3%A9curit%C3%A9%20web&descSize=17&descAlignY=56" width="100%" alt="Del Prudence, développeur Full-Stack, Next.js et TypeScript, sécurité web" />
 
-**Je conçois des applications web rapides et sécurisées, de l'idée à la mise en production.**
+**Je construis des applications Next.js sécurisées, et des outils open source qui aident les développeurs à éviter les failles les plus courantes.**
 
-![Cotonou, Bénin](https://img.shields.io/badge/Cotonou-B%C3%A9nin-9ece6a?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=i6moons&color=bb9af7&style=for-the-badge&label=VUES)
+![Cotonou, Bénin](https://img.shields.io/badge/Cotonou-B%C3%A9nin-9ece6a?style=flat-square&logo=googlemaps&logoColor=white) ![Profile views](https://komarev.com/ghpvc/?username=i6moons&color=7aa2f7&style=flat-square&label=vues)
 
 </div>
 
----
+## 🚀 Projets open source
 
-## 👨🏾‍💻 À propos
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 💬 Parlez-moi de : Next.js, TypeScript, sécurité web.
+<a href="https://github.com/i6moons/server-action-audit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i6moons&repo=server-action-audit&theme=tokyonight&hide_border=true&description_lines_count=2" alt="server-action-audit" /></a>
 
----
+**Le problème :** dans Next.js, chaque Server Action est un point d'accès public, et la vérification de connexion s'oublie facilement.
+
+**L'outil :** il liste toutes les actions d'un projet et signale celles qui ne vérifient pas qui les appelle.
+
+- CLI, plugin ESLint, GitHub Action, rapport SARIF
+- Auth.js, Clerk, Supabase, Better Auth, next-safe-action
+- Testé sur 5 applications open source : 456 actions analysées
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/i6moons/feexpay-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i6moons&repo=feexpay-server&theme=tokyonight&hide_border=true&description_lines_count=2" alt="feexpay-server" /></a>
+
+**Le problème :** les SDK web de FeexPay placent la clé secrète dans le navigateur, et le webhook n'est pas signé.
+
+**L'outil :** un SDK serveur pour encaisser par Mobile Money et carte, sans jamais exposer la clé.
+
+- 17 réseaux dans 6 pays : MTN, Moov, Wave, Orange…
+- Webhook revérifié auprès de l'API de statut
+- Zéro dépendance, simulateur de sandbox, Next.js et Edge
+
+</td>
+</tr>
+</table>
+
+Retours, issues et contributions bienvenus sur les deux projets.
 
 ## 🛠️ Stack
 
-<div align="center">
-
-**Web**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,vercel&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, Node.js, Express, Vercel" />
-
-**Outils et systèmes**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vscode,figma&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Linux, Bash, VS Code, Figma" />
-
-</div>
-
----
+| Usage | Outils |
+| --- | --- |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express" /> |
+| **Outils** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vercel,vscode,figma&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Linux, Bash, Vercel, VS Code, Figma" /> |
 
 ## 📈 Activité
 
@@ -46,15 +64,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i6moons/i6moons/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/i6moons/i6moons/output/github-snake-dark.svg" alt="Serpent qui mange le graphe de contributions" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-**Un projet web, une app à sécuriser ?**
-
-[![Me suivre sur GitHub](https://img.shields.io/badge/Me_suivre-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/i6moons)
 
 </div>
