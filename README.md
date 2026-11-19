@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1e3a8a,100:7aa2f7&height=180&section=header&text=Del%20Prudence&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Web%20Security&descSize=17&descAlignY=56" width="100%" alt="Del Prudence, full-stack developer, Next.js and TypeScript, web security" />
-
-**Cybersecurity & Full-Stack Engineer · UI/UX Designer · DevSecOps & Secure Architectures**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1e3a8a,100:7aa2f7&height=180&section=header&text=Del%20Prudence&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Application%20Security%20%C2%B7%20Full-Stack%20%28Next.js%20%2F%20TypeScript%29&descSize=17&descAlignY=56" width="100%" alt="Del Prudence, application security and full-stack development, Next.js and TypeScript" />
 
 I build secure Next.js apps, and open-source tools that help developers avoid the most common security mistakes.
-
-![Profile views](https://komarev.com/ghpvc/?username=i6moons&color=7aa2f7&style=flat-square&label=profile%20views)
 
 </div>
 
@@ -53,21 +49,20 @@ Feedback, issues and contributions are welcome on both projects.
 
 - **[poweradmin/poweradmin#1836](https://github.com/poweradmin/poweradmin/pull/1836)** · merged: OIDC and SAML logins are admitted only when the configured claims match. Poweradmin is a web UI and REST API for PowerDNS.
 
+## 🏁 CTF
+
+- **HackerLab 2026** · captain of team **Sh3llby**, 5th in the 48-hour final.
+
 ## 🛠️ Stack
 
 | Area | Tools |
 | --- | --- |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS" /> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Node.js, Express, Python" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vercel,vscode,figma&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Linux, Bash, Vercel, VS Code, Figma" /> |
-
-## 📈 Activity
+| **Security** | Burp Suite · ffuf · nuclei |
+| **Languages** | TypeScript · JavaScript · Python |
+| **Web** | Next.js · React · Node.js |
+| **Tooling** | Linux · Git · GitHub Actions · Docker |
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=i6moons&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for i6moons" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i6moons/i6moons/output/github-snake-dark.svg" />
