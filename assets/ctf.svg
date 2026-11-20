@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="HackerLab 2026 CTF: captain of team Sh3llby. 321 teams in qualifiers, 20 finalist teams, 5th in the 48-hour final, held 1st place during the final." fill="none">
+<title>HackerLab 2026 CTF: captain of team Sh3llby. 321 teams in qualifiers, 20 finalist teams, 5th in the 48-hour final, held 1st place during the final.</title>
+<defs>
+<linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+<radialGradient id="cbg" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#7aa2f7" stop-opacity="0.22"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>
+<pattern id="cbp" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#7aa2f7" stroke-opacity="0.06"/></pattern>
+<clipPath id="cbc"><rect width="1200" height="320" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#cbc)">
+<rect width="1200" height="320" fill="url(#cb)"/>
+<rect width="1200" height="320" fill="url(#cbp)"/>
+<rect width="1200" height="320" fill="url(#cbg)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="23.5" stroke="#26324f"/>
+<text x="64" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#7aa2f7" text-anchor="start" letter-spacing="2">HACKERLAB 2026 · CTF</text>
+<text x="64" y="128" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="800" fill="#e6e9f5" text-anchor="start" letter-spacing="-0.5">Captain of team Sh3llby</text>
+<text x="64" y="166" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="400" fill="#9aa5ce" text-anchor="start">48-hour non-stop team final.</text>
+<rect x="64" y="192" width="368" height="40" rx="20" fill="#9ece6a" fill-opacity="0.12" stroke="#9ece6a" stroke-opacity="0.6"/>
+<text x="86" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#9ece6a" text-anchor="start">▲  Held 1st place during the final</text>
+<text x="64" y="276" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#646e94" text-anchor="start">Also competed in HackerLab 2024 and 2025.</text>
+<rect x="620" y="70" width="152" height="180" rx="18" fill="#121a30" fill-opacity="1" stroke="#26324f"/>
+<text x="696.0" y="160" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="800" fill="#e6e9f5" text-anchor="middle" letter-spacing="-1">321</text>
+<text x="696.0" y="196" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" fill="#9aa5ce" text-anchor="middle">teams in</text>
+<text x="696.0" y="218" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" fill="#9aa5ce" text-anchor="middle">qualifiers</text>
+<path d="M780 160h24m-7-7l7 7-7 7" stroke="#646e94" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="812" y="70" width="152" height="180" rx="18" fill="#121a30" fill-opacity="1" stroke="#26324f"/>
+<text x="888.0" y="160" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="800" fill="#e6e9f5" text-anchor="middle" letter-spacing="-1">20</text>
+<text x="888.0" y="196" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" fill="#9aa5ce" text-anchor="middle">finalist</text>
+<text x="888.0" y="218" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" fill="#9aa5ce" text-anchor="middle">teams</text>
+<path d="M972 160h24m-7-7l7 7-7 7" stroke="#646e94" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1004" y="70" width="152" height="180" rx="18" fill="#7aa2f7" fill-opacity="0.16" stroke="#7aa2f7"/>
+<text x="1080.0" y="160" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="800" fill="#7dcfff" text-anchor="middle" letter-spacing="-1">5th</text>
+<text x="1080.0" y="196" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" fill="#9aa5ce" text-anchor="middle">final</text>
+<text x="1080.0" y="218" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" fill="#9aa5ce" text-anchor="middle">ranking</text>
+</svg>

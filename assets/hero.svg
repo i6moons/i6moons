@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Del Prudence. Application security and full-stack. I find the auth bugs before attackers do. 456 Server Actions audited, 2 security packages on npm, 6 accepted answers, 5th at the HackerLab 2026 final." fill="none">
+<title>Del Prudence. Application security and full-stack. I find the auth bugs before attackers do. 456 Server Actions audited, 2 security packages on npm, 6 accepted answers, 5th at the HackerLab 2026 final.</title>
+<style>@keyframes scan{0%,8%{transform:translateY(0);opacity:1}32%,38%{transform:translateY(84px);opacity:1}48%,100%{transform:translateY(112px);opacity:0}}@keyframes find{0%,34%{opacity:0;transform:translateY(6px)}42%,96%{opacity:1;transform:translateY(0)}100%{opacity:0}}.scan{animation:scan 7s ease-in-out infinite}.finding{animation:find 7s ease-out infinite}@media (prefers-reduced-motion:reduce){.scan,.finding{animation:none}}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+<radialGradient id="bgg" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#7aa2f7" stop-opacity="0.22"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>
+<pattern id="bgp" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#7aa2f7" stroke-opacity="0.06"/></pattern>
+<clipPath id="bgc"><rect width="1200" height="620" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#bgc)">
+<rect width="1200" height="620" fill="url(#bg)"/>
+<rect width="1200" height="620" fill="url(#bgp)"/>
+<rect width="1200" height="620" fill="url(#bgg)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="619" rx="23.5" stroke="#26324f"/>
+<defs><linearGradient id="hl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#7dcfff"/></linearGradient></defs>
+<rect x="64" y="64" width="392" height="34" rx="17" fill="#7aa2f7" fill-opacity="0.12" stroke="#7aa2f7" stroke-opacity="0.45"/>
+<circle cx="86" cy="81" r="5" fill="#9ece6a"/>
+<text x="100" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#7aa2f7" text-anchor="start" letter-spacing="1.5">APPLICATION SECURITY · FULL-STACK</text>
+<text x="64" y="152" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="600" fill="#9aa5ce" text-anchor="start">Del Prudence</text>
+<text x="64" y="220" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="800" fill="#e6e9f5" text-anchor="start" letter-spacing="-1">I find the auth bugs</text>
+<text x="64" y="286" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="800" fill="url(#hl)" text-anchor="start" letter-spacing="-1">before attackers do.</text>
+<text x="64" y="340" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="400" fill="#9aa5ce" text-anchor="start">Next.js &amp; TypeScript engineer building secure web apps,</text>
+<text x="64" y="368" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="400" fill="#9aa5ce" text-anchor="start">and open-source tools that catch broken access control in CI.</text>
+<rect x="724" y="64" width="412" height="330" rx="14" fill="#1a1b26" stroke="#26324f"/>
+<path d="M724 104H1136" stroke="#26324f"/>
+<circle cx="746" cy="84" r="5.5" fill="#ff5f56"/>
+<circle cx="764" cy="84" r="5.5" fill="#ffbd2e"/>
+<circle cx="782" cy="84" r="5.5" fill="#27c93f"/>
+<text x="1118" y="89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#646e94" text-anchor="end">app/posts/actions.ts</text>
+<rect class="scan" x="732" y="123" width="396" height="26" rx="6" fill="#7aa2f7" fill-opacity="0.13"/>
+<text x="744" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#646e94" text-anchor="start">1</text>
+<text x="772" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#9ece6a">&#x27;use server&#x27;</tspan></text>
+<text x="744" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#646e94" text-anchor="start">2</text>
+<text x="744" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#646e94" text-anchor="start">3</text>
+<text x="772" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#bb9af7">export async </tspan><tspan fill="#bb9af7">function </tspan><tspan fill="#7aa2f7">deletePost</tspan><tspan fill="#e6e9f5">(id) {</tspan></text>
+<text x="744" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#646e94" text-anchor="start">4</text>
+<text x="772" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#bb9af7">  await </tspan><tspan fill="#e6e9f5">db.post.</tspan><tspan fill="#7aa2f7">delete</tspan><tspan fill="#e6e9f5">({ where: { id } })</tspan></text>
+<text x="744" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#646e94" text-anchor="start">5</text>
+<text x="772" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#e6e9f5">}</tspan></text>
+<g class="finding"><rect x="744" y="290" width="372" height="40" rx="10" fill="#f7768e" fill-opacity="0.12" stroke="#f7768e" stroke-opacity="0.7"/><text x="760" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#f7768e" text-anchor="start">✖  public endpoint · no auth check</text></g>
+<text x="744" y="360" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#646e94" text-anchor="start">$ npx server-action-audit</text>
+<path d="M64 446H1136" stroke="#26324f"/>
+<text x="64" y="526" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="#e6e9f5" text-anchor="start" letter-spacing="-1">456</text>
+<text x="64" y="554" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6e9f5" text-anchor="start">Server Actions audited</text>
+<text x="64" y="578" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#9aa5ce" text-anchor="start">on 5 large open-source apps</text>
+<path d="M308 478V572" stroke="#26324f"/>
+<text x="332" y="526" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="#e6e9f5" text-anchor="start" letter-spacing="-1">2</text>
+<text x="332" y="554" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6e9f5" text-anchor="start">security packages on npm</text>
+<text x="332" y="578" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#9aa5ce" text-anchor="start">+ 1 GitHub Marketplace Action</text>
+<path d="M576 478V572" stroke="#26324f"/>
+<text x="600" y="526" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="#e6e9f5" text-anchor="start" letter-spacing="-1">6</text>
+<text x="600" y="554" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6e9f5" text-anchor="start">accepted answers</text>
+<text x="600" y="578" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#9aa5ce" text-anchor="start">AWS · Google · Nextcloud repos</text>
+<path d="M844 478V572" stroke="#26324f"/>
+<text x="868" y="526" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="#e6e9f5" text-anchor="start" letter-spacing="-1">#5</text>
+<text x="868" y="554" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6e9f5" text-anchor="start">HackerLab 2026 final</text>
+<text x="868" y="578" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#9aa5ce" text-anchor="start">team captain · 321 teams</text>
+</svg>
