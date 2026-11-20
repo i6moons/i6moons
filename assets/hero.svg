@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Del Prudence. Application security and full-stack. I find the auth bugs before attackers do. 456 Server Actions audited, 2 security packages on npm, 6 accepted answers, 5th at the HackerLab 2026 final." fill="none">
-<title>Del Prudence. Application security and full-stack. I find the auth bugs before attackers do. 456 Server Actions audited, 2 security packages on npm, 6 accepted answers, 5th at the HackerLab 2026 final.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Del Prudence. Application security and full-stack. I find the auth bugs before attackers do. 456 Server Actions audited, 2 security packages on npm, 6 accepted answers, 145 automated tests." fill="none">
+<title>Del Prudence. Application security and full-stack. I find the auth bugs before attackers do. 456 Server Actions audited, 2 security packages on npm, 6 accepted answers, 145 automated tests.</title>
 <style>@keyframes scan{0%,8%{transform:translateY(0);opacity:1}32%,38%{transform:translateY(84px);opacity:1}48%,100%{transform:translateY(112px);opacity:0}}@keyframes find{0%,34%{opacity:0;transform:translateY(6px)}42%,96%{opacity:1;transform:translateY(0)}100%{opacity:0}}.scan{animation:scan 7s ease-in-out infinite}.finding{animation:find 7s ease-out infinite}@media (prefers-reduced-motion:reduce){.scan,.finding{animation:none}}</style>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
@@ -53,7 +53,7 @@
 <text x="600" y="554" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6e9f5" text-anchor="start">accepted answers</text>
 <text x="600" y="578" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#9aa5ce" text-anchor="start">AWS · Google · Nextcloud repos</text>
 <path d="M844 478V572" stroke="#26324f"/>
-<text x="868" y="526" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="#e6e9f5" text-anchor="start" letter-spacing="-1">#5</text>
-<text x="868" y="554" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6e9f5" text-anchor="start">HackerLab 2026 final</text>
-<text x="868" y="578" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#9aa5ce" text-anchor="start">team captain · 321 teams</text>
+<text x="868" y="526" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="#e6e9f5" text-anchor="start" letter-spacing="-1">145</text>
+<text x="868" y="554" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6e9f5" text-anchor="start">automated tests</text>
+<text x="868" y="578" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#9aa5ce" text-anchor="start">CI on Node 20 · 22 · 24</text>
 </svg>
